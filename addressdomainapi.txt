@@ -18,3 +18,10 @@ www.digitalocean.com# 16best domain
 icook.hk:8443# 18best domain
 cf.090227.xyz# 19best domain
 time.is# 20best domain
+www.visa.com.sg:8443# 21best domain
+usa.visa.com:443# 22best domain
+myanmar.visa.com:8443# 23best domain
+www.visa.com.tw:2053# 24best domain
+www.visaeurope.ch:2083# 25best domain
+www.visa.com.br:2087# 26best domain
+www.visasoutheasteurope.com:2096#27best domain
