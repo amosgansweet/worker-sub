@@ -1,28 +1,28 @@
-icook.tw:2053# 1best domain
-cloudflare.cfgo.cc# 2best domain
-cfip.xxxxxxxx.tk:8443# 3best domain
-steamdb.info# 4best domain
-japan.com# 5best domain 
-www.hugedomains.com# 6best domain 
-malaysia.com# 7best domain
-www.visa.co.jp# 8best domain 
-www.ipget.net# 9best domain 
-www.gov.ua# 10best domain 
-www.udacity.com# 11best domain 
-www.shopify.com# 12best domain 
-www.visakorea.com# 13best domain
-russia.com# 14best domain 
-www.4chan.org# 15best domain 
-www.digitalocean.com# 16best domain
-104.17.152.41# 17best domain
-icook.hk:8443# 18best domain
-cf.090227.xyz# 19best domain
-time.is# 20best domain
-www.visa.com.sg:8443# 21best domain
-usa.visa.com:443# 22best domain
-myanmar.visa.com:8443# 23best domain
-www.visa.com.tw:2053# 24best domain
-www.visaeurope.ch:2083# 25best domain
-www.visa.com.br:2087# 26best domain
+icook.tw:2053#1best domain
+cloudflare.cfgo.cc#2best domain
+cfip.xxxxxxxx.tk:8443#3best domain
+steamdb.info#4best domain
+japan.com#5best domain 
+www.hugedomains.com#6best domain 
+malaysia.com#7best domain
+www.visa.co.jp#8best domain 
+www.ipget.net#9best domain 
+www.gov.ua#10best domain 
+www.udacity.com#11best domain 
+www.shopify.com#12best domain 
+www.visakorea.com#13best domain
+russia.com#14best domain 
+www.4chan.org#15best domain 
+www.digitalocean.com#16best domain
+104.17.152.41#17best domain
+icook.hk:8443#18best domain
+cf.090227.xyz#19best domain
+time.is#20best domain
+www.visa.com.sg:8443#21best domain
+usa.visa.com:443#22best domain
+myanmar.visa.com:8443#23best domain
+www.visa.com.tw:2053#24best domain
+www.visaeurope.ch:2083#25best domain
+www.visa.com.br:2087#26best domain
 www.visasoutheasteurope.com:2096#27best domain
-join.my.telegram.channel.cmliussss.to.unlock.more.premium.nodes.cf.090227.xyz:443# 28best domain-cm
+join.my.telegram.channel.cmliussss.to.unlock.more.premium.nodes.cf.090227.xyz:443#28best domain-cm
