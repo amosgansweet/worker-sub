@@ -33,10 +33,10 @@ iplocation.io#32best domain
 log.bpminecraft.com#33best domain
 singapore.com#34best domain
 skk.moe#35best domain
-time.cloudflare.com#36best domain
+104.19.133.56:443#36US
 whatismyipaddress.com#37best domain
 www.baipiao.eu.org#38best domain
-www.boba88slot.com#39best domain
+104.25.225.145:443#39US
 www.csgo.com#40best domain
 www.gco.gov.qa#41best domain
 www.glassdoor.com#42best domain
@@ -51,7 +51,7 @@ www.udemy.com#50best domain
 www.visa.com#51best domain
 www.visa.com.hk#52best domain
 www.whatismyip.com#53best domain
-www.who.int#54best domain
+104.19.112.26:443#54US
 www.whoer.net#55best domain
 www.wto.org#56best domain
-www.zsu.gov.u#57best domain
+104.19.28.59:443#57US
