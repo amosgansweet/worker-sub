@@ -51,7 +51,7 @@ www.udemy.com#US
 www.visa.com#US
 www.visa.com.hk#HK
 www.whatismyip.com#US
-104.19.112.26:443#54US
+104.19.112.26:443#US
 www.whoer.net#EU
 www.wto.org#EU
 104.19.28.59:443#US
