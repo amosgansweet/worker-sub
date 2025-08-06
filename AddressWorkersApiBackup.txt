@@ -1,1 +1,81 @@
+icook.tw:2053#1best domain
+cloudflare.cfgo.cc#2best domain
+cfip.xxxxxxxx.tk:8443#3best domain
+steamdb.info#4best domain
+japan.com#5best domain 
+www.hugedomains.com#6best domain 
+malaysia.com#7best domain
+www.visa.co.jp#8best domain 
+www.ipget.net#9best domain 
+www.gov.ua#10best domain 
+www.udacity.com#11best domain 
+www.shopify.com#12best domain 
+www.visakorea.com#13best domain
+russia.com#14best domain 
+www.4chan.org#15best domain 
+www.digitalocean.com#16best domain
+104.17.152.41#17best domain
+icook.hk:8443#18best domain
+cf.090227.xyz#19best domain
+time.is#20best domain
+www.visa.com.sg:8443#21best domain
+usa.visa.com:443#22best domain
+myanmar.visa.com:8443#23best domain
+www.visa.com.tw:2053#24best domain
+www.visaeurope.ch:2083#25best domain
+www.visa.com.br:2087#26best domain
+www.visasoutheasteurope.com:2096#27best domain
+join.my.telegram.channel.cmliussss.to.unlock.more.premium.nodes.cf.090227.xyz:443#28best domain-cm
+fbi.gov#29best domain
+gur.gov.ua#30best domain
+ip.sb#31best domain
+iplocation.io#32best domain
+log.bpminecraft.com#33best domain
+singapore.com#34best domain
+skk.moe#35best domain
+104.19.133.56:443#36US
+whatismyipaddress.com#37best domain
+www.baipiao.eu.org#38best domain
+104.25.225.145:443#39US
+www.csgo.com#40best domain
+www.gco.gov.qa#41best domain
+www.glassdoor.com#42best domain
+www.gov.se#43best domain
+www.iakeys.com#44best domain
+www.ipaddress.my#45best domain
+www.ipchicken.com#46best domain
+www.iplocation.net#47best domain
+www.okcupid.com#48best domain
+www.pcmag.com#49best domain
+www.udemy.com#50best domain
+www.visa.com#51best domain
+www.visa.com.hk#52best domain
+www.whatismyip.com#53best domain
+104.19.112.26:443#54US
+www.whoer.net#55best domain
+www.wto.org#56best domain
+104.19.28.59:443#57US
 
+[2a06:98c1:3102:448f:53d2:c3ec:4301:50c5]:443#本地1IPV6
+[2606:4700:4401:2653:9576:43de:fbe6:8232]:443#本地2IPV6
+[2803:f800:52:0177:b4a4:1f9b:1fab:f8eb]:443#本地3IPV6
+[2606:4700:51:d074:3f4c:ac46:2aea:e929]:443#本地4IPV6
+[2606:4700:b:f6ed:c644:8542:b631:824c]:443#本地5IPV6
+[2606:4700:24:e960:d535:880e:4033:8a77]:443#本地6IPV6
+[2606:4700:27:713b:d732:0b84:3dfa:3be1]:443#localGZ1 IP6
+[2606:4700:27:713b:d732:0b84:3dfa:3be1]:443#localGZ2 IP6
+
+162.159.15.62:443#本地1IP4
+66.235.200.156:443#本地2IP4
+185.146.173.144:443#本地3IP4
+66.235.200.33:443#本地4IP4
+172.67.205.196:443#本地5IP4
+104.17.3.59:443#LocalGZ1 IP4
+104.21.87.85:443#LocalGZ2 IP4
+
+47.243.236.86:443#HK
+8.210.65.243:8443#HK
+8.218.120.79:443#HK
+219.76.13.169:443#HK
+219.76.13.183:443#HK
+43.128.26.74:443#HK
