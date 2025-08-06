@@ -1,57 +1,57 @@
-icook.tw:2053#1best domain
-cloudflare.cfgo.cc#2best domain
-cfip.xxxxxxxx.tk:8443#3best domain
-steamdb.info#4best domain
-japan.com#5best domain 
-www.hugedomains.com#6best domain 
-malaysia.com#7best domain
-www.visa.co.jp#8best domain 
-www.ipget.net#9best domain 
-www.gov.ua#10best domain 
-www.udacity.com#11best domain 
-www.shopify.com#12best domain 
-www.visakorea.com#13best domain
-russia.com#14best domain 
-www.4chan.org#15best domain 
-www.digitalocean.com#16best domain
-104.17.152.41#17best domain
-icook.hk:8443#18best domain
-cf.090227.xyz#19best domain
-time.is#20best domain
-www.visa.com.sg:8443#21best domain
-usa.visa.com:443#22best domain
-myanmar.visa.com:8443#23best domain
-www.visa.com.tw:2053#24best domain
-www.visaeurope.ch:2083#25best domain
-www.visa.com.br:2087#26best domain
-www.visasoutheasteurope.com:2096#27best domain
-join.my.telegram.channel.cmliussss.to.unlock.more.premium.nodes.cf.090227.xyz:443#28best domain-cm
-fbi.gov#29best domain
-gur.gov.ua#30best domain
-ip.sb#31best domain
-iplocation.io#32best domain
-log.bpminecraft.com#33best domain
-singapore.com#34best domain
-skk.moe#35best domain
+icook.tw:2053#TW
+cloudflare.cfgo.cc#SG
+cfip.xxxxxxxx.tk:8443#SG
+steamdb.info#US
+japan.com#JP
+www.hugedomains.com#US
+malaysia.com#SG
+www.visa.co.jp#JP
+www.ipget.net#US
+www.gov.ua#EU
+www.udacity.com#UA
+www.shopify.com#CA 
+www.visakorea.com#KR
+russia.com#SG
+www.4chan.org#JP
+www.digitalocean.com#US
+104.17.152.41#US
+icook.hk:8443#HK
+cf.090227.xyz#JP
+time.is#EU
+www.visa.com.sg:8443#SG
+usa.visa.com:443#US
+myanmar.visa.com:8443#SG
+www.visa.com.tw:2053#TW
+www.visaeurope.ch:2083#EU
+www.visa.com.br:2087#US
+www.visasoutheasteurope.com:2096#EU
+join.my.telegram.channel.cmliussss.to.unlock.more.premium.nodes.cf.090227.xyz:443#JP
+fbi.gov#US
+gur.gov.ua#EU
+ip.sb#EU
+iplocation.io#US
+log.bpminecraft.com#JP
+singapore.com#SG
+skk.moe#JP
 104.19.133.56:443#36US
-whatismyipaddress.com#37best domain
-www.baipiao.eu.org#38best domain
+whatismyipaddress.com#US
+www.baipiao.eu.org#EU
 104.25.225.145:443#39US
-www.csgo.com#40best domain
-www.gco.gov.qa#41best domain
-www.glassdoor.com#42best domain
-www.gov.se#43best domain
-www.iakeys.com#44best domain
-www.ipaddress.my#45best domain
-www.ipchicken.com#46best domain
-www.iplocation.net#47best domain
-www.okcupid.com#48best domain
-www.pcmag.com#49best domain
-www.udemy.com#50best domain
-www.visa.com#51best domain
-www.visa.com.hk#52best domain
-www.whatismyip.com#53best domain
+www.csgo.com#EU
+www.gco.gov.qa#EU
+www.glassdoor.com#US
+www.gov.se#EU
+www.iakeys.com#HK
+www.ipaddress.my#SG
+www.ipchicken.com#US
+www.iplocation.net#US
+www.okcupid.com#US
+www.pcmag.com#US
+www.udemy.com#US
+www.visa.com#US
+www.visa.com.hk#HK
+www.whatismyip.com#US
 104.19.112.26:443#54US
-www.whoer.net#55best domain
-www.wto.org#56best domain
+www.whoer.net#EU
+www.wto.org#EU
 104.19.28.59:443#57US
