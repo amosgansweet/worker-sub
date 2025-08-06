@@ -5,3 +5,5 @@ cf.090227.xyz#JP
 join.my.telegram.channel.cmliussss.to.unlock.more.premium.nodes.cf.090227.xyz:443#JP
 log.bpminecraft.com#JP
 skk.moe#JP
+141.147.188.120:443#JP
+172.104.116.38:443#JP
