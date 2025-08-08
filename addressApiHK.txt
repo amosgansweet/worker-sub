@@ -1,6 +1,3 @@
-icook.hk:8443#HK
-www.iakeys.com#HK
-www.visa.com.hk#HK
 219.76.13.169:443#HK
 219.76.13.183:443#HK
 43.128.26.74:443#HK
@@ -8,3 +5,6 @@ www.visa.com.hk#HK
 156.255.90.175:2053#HK
 193.233.193.12:2053#HK
 156.255.90.175:8443#HK
+icook.hk:8443#HK
+www.iakeys.com#HK
+www.visa.com.hk#HK
