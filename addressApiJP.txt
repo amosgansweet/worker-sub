@@ -14,3 +14,4 @@ skk.moe#JP
 139.162.83.106:443#JP
 139.162.83.190:443#JP
 172.104.113.18:443#JP
+proxyiphk.aomega-bio.dpdns.org:443#JP
