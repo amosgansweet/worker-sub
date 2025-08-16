@@ -1,0 +1,23 @@
+payload:
+  # Google Labs & AI
+  - DOMAIN-SUFFIX,labs.google
+  - DOMAIN-SUFFIX,withgoogle.com
+  - DOMAIN-SUFFIX,googlelabs.com
+  - DOMAIN-SUFFIX,ai.google
+  - DOMAIN-SUFFIX,deepmind.com
+
+  # ImageFX / MusicFX / Flow / Whisk 静态资源
+  - DOMAIN-SUFFIX,googleusercontent.com
+  - DOMAIN-SUFFIX,gstatic.com
+  - DOMAIN-SUFFIX,ggpht.com
+
+  # Google 登录相关
+  - DOMAIN-SUFFIX,accounts.google.com
+  - DOMAIN-SUFFIX,oauth.googleusercontent.com
+  - DOMAIN-SUFFIX,apis.google.com
+  - DOMAIN-SUFFIX,clients1.google.com
+  - DOMAIN-SUFFIX,clients2.google.com
+
+  # 兜底
+  - DOMAIN-SUFFIX,google.com
+  - DOMAIN-SUFFIX,googleapis.com
