@@ -1,5 +1,6 @@
 www.visakorea.com#KR
 www.visa.com.hk#KR
+malaysia.com#KR
 104.25.215.211:443#KR
 104.17.78.196:443#KR
 104.24.72.33:443#KR
