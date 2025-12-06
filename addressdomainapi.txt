@@ -68,3 +68,13 @@ www.wto.org#EU
 [2606:4700:b:f6ed:c644:8542:b631:824c]:443#US
 [2606:4700:24:e960:d535:880e:4033:8a77]:443#US
 [2606:4700:27:713b:d732:0b84:3dfa:3be1]:443#US
+mfa.gov.ua#SG
+store.ubi.com#SG
+cf.090227.xyz#SG
+sub.danfeng.eu.org#TW
+cf.zhetengsha.eu.org#HK
+cf.008500.xyz#HK
+cf.877774.xyz#HK
+saas.sin.fan#JP
+cdns.doon.eu.org#JP
+cf.130519.xyz#KR
