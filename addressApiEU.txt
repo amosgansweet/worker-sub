@@ -5,7 +5,7 @@
 94.177.8.23:443#EU
 194.53.54.30:443#EU
 77.91.84.223:443#EU
-proxyipnl.aomega-bio.dpdns.org:443#EU
+nl.yahaibiotech.ip-ddns.com:443#EU
 www.gov.ua#EU
 time.is#EU
 www.visaeurope.ch:2083#EU
@@ -18,4 +18,4 @@ www.gco.gov.qa#EU
 www.gov.se#EU
 www.whoer.net#EU
 www.wto.org#EU
-
+malaysia.com#EU
