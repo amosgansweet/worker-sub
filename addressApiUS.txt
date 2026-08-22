@@ -35,4 +35,9 @@ www.whatismyip.com#US
 172.67.205.196:443#US
 104.17.3.59:443#US
 104.21.87.85:443#US
-
+cdn-b100.xn--b6gac.eu.org#US
+bpb.yebekhe.link#US
+icook.hk#US
+icook.tw#US
+singapore.cf-cdn.site#US
+cf.proxyip.download#US
