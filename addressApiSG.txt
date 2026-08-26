@@ -13,7 +13,6 @@ www.visa.com.sg:8443#SG
 myanmar.visa.com:8443#SG
 singapore.com#SG
 www.ipaddress.my#SG
-[2803:f800:52:0177:b4a4:1f9b:1fab:f8eb]:443#SG
 mfa.gov.ua#SG
 store.ubi.com#SG
 cf.090227.xyz#SG
