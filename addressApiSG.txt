@@ -1,3 +1,8 @@
+86.107.197.161:443#SG
+38.180.70.107:443#SG
+89.42.142.220:443#SG
+2.59.183.210:443#SG
+193.109.69.48:443#SG
 cloudflare.cfgo.cc#SG
 cfip.xxxxxxxx.tk:8443#SG
 malaysia.com#SG
