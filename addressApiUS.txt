@@ -41,3 +41,4 @@ icook.hk#US
 icook.tw#US
 singapore.cf-cdn.site#US
 cf.proxyip.download#US
+https://raw.githubusercontent.com/amosgansweet/worker-sub/refs/heads/main/addressapi-ipchosen.txt
