@@ -1,5 +1,5 @@
 104.17.139.67#SG_chosen
 2.59.183.210#SG_chosen
-russia.com#SG_chosen
-108.162.195.161#SG_chosen
-singapore.com#SG_chosen
+172.66.137.121#SG_chosen
+104.16.65.187#SG_chosen
+190.93.247.8#SG_chosen
