@@ -1,5 +1,5 @@
-104.17.139.67#SG_chosen
-2.59.183.210#SG_chosen
-172.66.137.121#SG_chosen
-104.16.65.187#SG_chosen
-190.93.247.8#SG_chosen
+173.245.59.160#SG_chosen
+104.16.92.164#SG_chosen
+japan.com#SG_chosen
+104.19.60.204#SG_chosen
+103.31.4.229#SG_chosen
