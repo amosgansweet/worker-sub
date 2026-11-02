@@ -1,5 +1,5 @@
-103.21.244.46#US_ipchosen
-104.25.225.145#US_ipchosen
-104.19.133.56#US_ipchosen
-104.21.194.178#US_ipchosen
-172.67.197.109#US_ipchosen
+saas.sin.fan#US_chosen
+www.gov.ua#US_chosen
+www.iplocation.net#US_chosen
+173.245.59.149#US_chosen
+104.25.78.126#US_chosen
