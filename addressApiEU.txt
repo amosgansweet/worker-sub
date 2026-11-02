@@ -1,5 +1,5 @@
-103.21.244.46#EU_ipchosen
-104.21.194.178#EU_ipchosen
-172.67.197.109#EU_ipchosen
-185.146.173.144#EU_ipchosen
-malaysia.com#EU_ipchosen
+www.udemy.com#EU_chosen
+172.67.197.109#EU_chosen
+skk.moe#EU_chosen
+www.whatismyip.com#EU_chosen
+104.17.152.41#EU_chosen
