@@ -1,5 +1,5 @@
-104.25.170.220#KR_ipchosen
-malaysia.com#KR_ipchosen
-173.245.58.60#KR_ipchosen
-88.216.69.73#KR_ipchosen
-172.64.94.130#KR_ipchosen
+162.159.232.245#KR_chosen
+malaysia.com#KR_chosen
+172.67.69.200#KR_chosen
+log.bpminecraft.com#KR_chosen
+whatismyipaddress.com#KR_chosen
