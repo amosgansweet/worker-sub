@@ -1,5 +1,5 @@
-104.19.60.204#JP_chosen
-japan.com#JP_chosen
 103.31.4.229#JP_chosen
-skk.moe#JP_chosen
-www.4chan.org#JP_chosen
+malaysia.com#JP_chosen
+103.21.244.35#JP_chosen
+www.udacity.com#JP_chosen
+japan.com#JP_chosen
