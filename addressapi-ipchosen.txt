@@ -1,5 +1,5 @@
-www.whatismyip.com#ipchosen
-172.67.197.109#ipchosen
-104.16.220.139#ipchosen
 104.17.152.41#ipchosen
 104.25.91.204#ipchosen
+www.udacity.com#ipchosen
+162.159.15.93#ipchosen
+198.41.196.181#ipchosen
