@@ -1,5 +1,5 @@
-www.gco.gov.qa#KR_chosen
-103.21.244.80#KR_chosen
-cf.090227.xyz#KR_chosen
-cf.877774.xyz#KR_chosen
-steamdb.info#KR_chosen
+104.16.246.249#KR_chosen
+www.digitalocean.com#KR_chosen
+gur.gov.ua#KR_chosen
+162.159.235.154#KR_chosen
+www.visa.co.jp#KR_chosen
