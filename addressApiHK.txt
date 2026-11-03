@@ -1,5 +1,5 @@
-103.31.4.229#HK_chosen
+104.17.152.41#HK_chosen
+www.udacity.com#HK_chosen
+162.159.15.93#HK_chosen
 www.ipchicken.com#HK_chosen
-iplocation.io#HK_chosen
-mfa.gov.ua#HK_chosen
-icook.hk:8443#HK_chosen
+103.31.4.229#HK_chosen
