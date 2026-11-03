@@ -1,5 +1,5 @@
-cf.877774.xyz#GB_chosen
-173.245.59.160#GB_chosen
-104.16.92.164#GB_chosen
-japan.com#GB_chosen
-104.19.60.204#GB_chosen
+104.18.153.239#GB_chosen
+iplocation.io#GB_chosen
+fbi.gov#GB_chosen
+singapore.com#GB_chosen
+www.whatismyip.com#GB_chosen
