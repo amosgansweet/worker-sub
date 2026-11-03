@@ -1,5 +1,5 @@
-saas.sin.fan#US_chosen
-www.gov.ua#US_chosen
 www.iplocation.net#US_chosen
-173.245.59.149#US_chosen
-104.25.78.126#US_chosen
+www.gov.ua#US_chosen
+198.41.196.181#US_chosen
+saas.sin.fan#US_chosen
+104.18.83.183#US_chosen
