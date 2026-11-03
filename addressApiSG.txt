@@ -1,5 +1,5 @@
-www.visa.com#SG_chosen
-store.ubi.com#SG_chosen
 singapore.com#SG_chosen
+malaysia.com#SG_chosen
 173.245.49.125#SG_chosen
-108.162.194.201#SG_chosen
+103.21.244.35#SG_chosen
+www.udacity.com#SG_chosen
