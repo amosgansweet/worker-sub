@@ -1,5 +1,5 @@
-103.31.4.18#EU_chosen
-www.udacity.com#EU_chosen
-172.67.164.125#EU_chosen
-172.67.197.109#EU_chosen
-188.114.98.250#EU_chosen
+www.visa.co.jp#EU_chosen
+www.visa.com.hk#EU_chosen
+log.bpminecraft.com#EU_chosen
+www.baipiao.eu.org#EU_chosen
+104.18.153.239#EU_chosen
