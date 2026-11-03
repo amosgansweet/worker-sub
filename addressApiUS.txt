@@ -1,5 +1,5 @@
-www.iplocation.net#US_chosen
-www.gov.ua#US_chosen
-198.41.196.181#US_chosen
-saas.sin.fan#US_chosen
-104.18.83.183#US_chosen
+www.visa.co.jp#US_chosen
+cf.zhetengsha.eu.org#US_chosen
+cdns.doon.eu.org#US_chosen
+cf.008500.xyz#US_chosen
+www.gco.gov.qa#US_chosen
