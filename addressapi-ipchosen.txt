@@ -1,5 +1,5 @@
 103.31.4.217#ipchosen
-www.whatismyip.com#ipchosen
-103.31.4.18#ipchosen
 103.31.4.20#ipchosen
-104.19.117.30#ipchosen
+103.31.4.18#ipchosen
+172.64.66.16#ipchosen
+173.245.58.36#ipchosen
