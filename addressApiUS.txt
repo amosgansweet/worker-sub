@@ -1,5 +1,5 @@
-190.93.244.113#US_chosen
 104.24.133.218#US_chosen
-104.25.145.186#US_chosen
 www.udacity.com#US_chosen
-162.159.11.0#US_chosen
+188.114.99.162#US_chosen
+104.25.145.186#US_chosen
+103.31.4.217#US_chosen
