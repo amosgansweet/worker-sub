@@ -1,5 +1,5 @@
-www.udacity.com#SG_chosen
-103.21.244.35#SG_chosen
 190.93.244.113#SG_chosen
-104.24.133.218#SG_chosen
-103.31.4.217#SG_chosen
+173.245.58.36#SG_chosen
+104.19.170.56#SG_chosen
+www.udacity.com#SG_chosen
+173.245.59.178#SG_chosen
