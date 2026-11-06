@@ -1,5 +1,5 @@
-www.udacity.com#US_chosen
-190.93.244.113#US_chosen
-188.114.99.162#US_chosen
-103.31.4.217#US_chosen
-104.27.204.34#US_chosen
+103.31.4.20#US_chosen
+172.64.66.16#US_chosen
+173.245.59.178#US_chosen
+103.21.244.98#US_chosen
+www.whatismyip.com#US_chosen
