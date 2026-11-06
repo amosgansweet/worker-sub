@@ -1,5 +1,5 @@
-singapore.com#SG_chosen
-malaysia.com#SG_chosen
-173.245.49.125#SG_chosen
+188.114.99.162#SG_chosen
+190.93.244.113#SG_chosen
 103.21.244.35#SG_chosen
+104.24.133.218#SG_chosen
 www.udacity.com#SG_chosen
