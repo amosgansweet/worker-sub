@@ -1,5 +1,5 @@
+172.64.66.16#CA_chosen
+www.whatismyip.com#CA_chosen
 103.21.244.206#CA_chosen
-162.159.40.159#CA_chosen
-162.159.11.0#CA_chosen
-104.25.145.186#CA_chosen
-www.glassdoor.com#CA_chosen
+104.19.117.30#CA_chosen
+173.245.58.36#CA_chosen
