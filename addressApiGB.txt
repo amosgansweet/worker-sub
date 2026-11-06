@@ -1,5 +1,5 @@
-104.18.153.239#GB_chosen
-iplocation.io#GB_chosen
-fbi.gov#GB_chosen
-singapore.com#GB_chosen
+104.19.117.30#GB_chosen
+173.245.58.36#GB_chosen
+104.19.170.56#GB_chosen
 www.whatismyip.com#GB_chosen
+173.245.59.178#GB_chosen
