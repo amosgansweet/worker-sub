@@ -1,5 +1,5 @@
-103.31.4.229#JP_chosen
-malaysia.com#JP_chosen
-103.21.244.35#JP_chosen
+104.19.170.56#JP_chosen
+173.245.59.178#JP_chosen
 www.udacity.com#JP_chosen
-japan.com#JP_chosen
+103.21.244.98#JP_chosen
+103.31.4.20#JP_chosen
