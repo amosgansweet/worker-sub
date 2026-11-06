@@ -1,5 +1,5 @@
-162.159.11.0#US_chosen
+190.93.244.113#US_chosen
+104.24.133.218#US_chosen
 104.25.145.186#US_chosen
-www.glassdoor.com#US_chosen
-cdns.doon.eu.org#US_chosen
-www.ipchicken.com#US_chosen
+www.udacity.com#US_chosen
+162.159.11.0#US_chosen
