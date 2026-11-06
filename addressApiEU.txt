@@ -1,5 +1,5 @@
-www.visa.co.jp#EU_chosen
-www.visa.com.hk#EU_chosen
-log.bpminecraft.com#EU_chosen
-www.baipiao.eu.org#EU_chosen
+www.udacity.com#EU_chosen
 104.18.153.239#EU_chosen
+103.31.4.217#EU_chosen
+104.27.204.34#EU_chosen
+www.whatismyip.com#EU_chosen
