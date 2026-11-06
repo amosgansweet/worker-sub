@@ -1,5 +1,5 @@
+173.245.59.178#HK_chosen
+103.21.244.98#HK_chosen
+103.31.4.20#HK_chosen
+172.64.66.16#HK_chosen
 104.27.204.34#HK_chosen
-162.159.2.247#HK_chosen
-www.udacity.com#HK_chosen
-188.114.99.162#HK_chosen
-www.whatismyip.com#HK_chosen
