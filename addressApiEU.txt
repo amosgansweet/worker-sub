@@ -1,5 +1,5 @@
-104.27.204.34#EU_chosen
-173.245.59.178#EU_chosen
+www.ipchicken.com#EU_chosen
+fbi.gov#EU_chosen
+whatismyipaddress.com#EU_chosen
 www.whatismyip.com#EU_chosen
-www.udacity.com#EU_chosen
-103.21.244.98#EU_chosen
+104.24.228.90#EU_chosen
