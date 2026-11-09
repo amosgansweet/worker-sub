@@ -1,5 +1,5 @@
-103.31.4.20#HK_chosen
-www.whatismyip.com#HK_chosen
-104.19.117.30#HK_chosen
-104.27.204.34#HK_chosen
-173.245.58.36#HK_chosen
+172.67.108.89#HK_chosen
+162.159.36.119#HK_chosen
+www.udemy.com#HK_chosen
+store.ubi.com#HK_chosen
+www.okcupid.com#HK_chosen
