@@ -1,5 +1,5 @@
-103.31.4.20#US_chosen
-172.64.66.16#US_chosen
-173.245.59.178#US_chosen
+172.67.180.63#US_chosen
+www.gov.ua#US_chosen
 103.21.244.98#US_chosen
-www.whatismyip.com#US_chosen
+173.245.59.178#US_chosen
+104.25.118.252#US_chosen
