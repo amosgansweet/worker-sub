@@ -1,5 +1,5 @@
-103.31.4.217#KR_chosen
-172.64.66.16#KR_chosen
-www.whatismyip.com#KR_chosen
-104.19.117.30#KR_chosen
-190.93.244.113#KR_chosen
+www.iplocation.net#KR_chosen
+sub.danfeng.eu.org#KR_chosen
+cf.zhetengsha.eu.org#KR_chosen
+www.visakorea.com#KR_chosen
+cdns.doon.eu.org#KR_chosen
