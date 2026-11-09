@@ -1,5 +1,5 @@
-104.19.170.56#JP_chosen
 173.245.59.178#JP_chosen
+www.whatismyip.com#JP_chosen
 www.udacity.com#JP_chosen
-103.21.244.98#JP_chosen
-103.31.4.20#JP_chosen
+172.67.108.89#JP_chosen
+104.19.170.56#JP_chosen
