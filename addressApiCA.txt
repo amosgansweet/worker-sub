@@ -1,5 +1,5 @@
-172.64.66.16#CA_chosen
-www.whatismyip.com#CA_chosen
-103.21.244.206#CA_chosen
-104.19.117.30#CA_chosen
-173.245.58.36#CA_chosen
+store.ubi.com#CA_chosen
+www.okcupid.com#CA_chosen
+iplocation.io#CA_chosen
+www.hugedomains.com#CA_chosen
+172.67.180.63#CA_chosen
