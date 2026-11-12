@@ -1,5 +1,5 @@
-www.ipchicken.com#EU_chosen
-fbi.gov#EU_chosen
-whatismyipaddress.com#EU_chosen
+190.93.247.126#EU_chosen
+104.24.227.79#EU_chosen
+www.udacity.com#EU_chosen
+103.21.244.60#EU_chosen
 www.whatismyip.com#EU_chosen
-104.24.228.90#EU_chosen
