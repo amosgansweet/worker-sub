@@ -1,5 +1,5 @@
-103.31.4.101#GB_chosen
-www.whatismyip.com#GB_chosen
-108.162.195.225#GB_chosen
+103.21.244.60#GB_chosen
 104.18.243.22#GB_chosen
-104.18.32.75#GB_chosen
+108.162.195.225#GB_chosen
+162.159.152.82#GB_chosen
+whatismyipaddress.com#GB_chosen
