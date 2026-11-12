@@ -1,5 +1,5 @@
-172.67.180.63#US_chosen
-www.gov.ua#US_chosen
-103.21.244.98#US_chosen
-173.245.59.178#US_chosen
-104.25.118.252#US_chosen
+www.udemy.com#US_chosen
+saas.sin.fan#US_chosen
+cf.877774.xyz#US_chosen
+www.4chan.org#US_chosen
+malaysia.com#US_chosen
