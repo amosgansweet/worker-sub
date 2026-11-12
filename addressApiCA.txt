@@ -1,5 +1,5 @@
-store.ubi.com#CA_chosen
-www.okcupid.com#CA_chosen
-iplocation.io#CA_chosen
-www.hugedomains.com#CA_chosen
-172.67.180.63#CA_chosen
+malaysia.com#CA_chosen
+www.visa.com.hk#CA_chosen
+japan.com#CA_chosen
+www.baipiao.eu.org#CA_chosen
+104.24.250.123#CA_chosen
