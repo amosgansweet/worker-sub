@@ -1,5 +1,5 @@
-japan.com#KR_chosen
-www.baipiao.eu.org#KR_chosen
+104.16.82.111#KR_chosen
 104.24.250.123#KR_chosen
-190.93.244.164#KR_chosen
 190.93.247.126#KR_chosen
+190.93.244.164#KR_chosen
+104.16.131.130#KR_chosen
