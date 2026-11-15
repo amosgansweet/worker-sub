@@ -1,5 +1,5 @@
-malaysia.com#CA_chosen
-www.visa.com.hk#CA_chosen
-japan.com#CA_chosen
-www.baipiao.eu.org#CA_chosen
 104.24.250.123#CA_chosen
+104.16.131.130#CA_chosen
+108.162.193.86#CA_chosen
+www.udacity.com#CA_chosen
+172.65.63.138#CA_chosen
