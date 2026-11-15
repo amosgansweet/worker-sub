@@ -1,5 +1,5 @@
-www.udemy.com#US_chosen
-saas.sin.fan#US_chosen
-cf.877774.xyz#US_chosen
-www.4chan.org#US_chosen
-malaysia.com#US_chosen
+104.16.82.111#US_chosen
+104.16.131.130#US_chosen
+108.162.193.86#US_chosen
+www.udacity.com#US_chosen
+172.65.63.138#US_chosen
