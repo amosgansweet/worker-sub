@@ -1,5 +1,5 @@
+104.16.82.111#HK_chosen
+104.16.131.130#HK_chosen
+108.162.193.86#HK_chosen
+www.udacity.com#HK_chosen
 162.159.152.82#HK_chosen
-whatismyipaddress.com#HK_chosen
-cf.130519.xyz#HK_chosen
-saas.sin.fan#HK_chosen
-store.ubi.com#HK_chosen
