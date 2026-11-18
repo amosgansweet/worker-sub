@@ -1,5 +1,5 @@
-162.159.36.119#SG_chosen
 www.udacity.com#SG_chosen
-172.67.108.89#SG_chosen
-www.whatismyip.com#SG_chosen
-172.65.63.138#SG_chosen
+103.21.244.141#SG_chosen
+103.21.244.159#SG_chosen
+104.18.115.57#SG_chosen
+104.21.217.238#SG_chosen
