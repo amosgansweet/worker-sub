@@ -1,5 +1,5 @@
-104.16.82.111#US_chosen
-104.16.131.130#US_chosen
-108.162.193.86#US_chosen
-www.udacity.com#US_chosen
-172.65.63.138#US_chosen
+steamdb.info#US_chosen
+www.digitalocean.com#US_chosen
+cf.zhetengsha.eu.org#US_chosen
+iplocation.io#US_chosen
+saas.sin.fan#US_chosen
