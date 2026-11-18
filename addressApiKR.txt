@@ -1,5 +1,5 @@
-104.16.82.111#KR_chosen
-104.24.250.123#KR_chosen
-190.93.247.126#KR_chosen
-190.93.244.164#KR_chosen
-104.16.131.130#KR_chosen
+sub.danfeng.eu.org#KR_chosen
+mfa.gov.ua#KR_chosen
+www.wto.org#KR_chosen
+fbi.gov#KR_chosen
+141.101.123.54#KR_chosen
