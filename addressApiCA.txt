@@ -1,5 +1,5 @@
-104.24.250.123#CA_chosen
-104.16.131.130#CA_chosen
-108.162.193.86#CA_chosen
-www.udacity.com#CA_chosen
-172.65.63.138#CA_chosen
+www.digitalocean.com#CA_chosen
+cf.zhetengsha.eu.org#CA_chosen
+iplocation.io#CA_chosen
+saas.sin.fan#CA_chosen
+sub.danfeng.eu.org#CA_chosen
