@@ -1,5 +1,5 @@
-104.16.82.111#HK_chosen
-104.16.131.130#HK_chosen
-108.162.193.86#HK_chosen
-www.udacity.com#HK_chosen
-162.159.152.82#HK_chosen
+104.21.217.238#HK_chosen
+162.159.154.209#HK_chosen
+store.ubi.com#HK_chosen
+cdns.doon.eu.org#HK_chosen
+www.gov.ua#HK_chosen
