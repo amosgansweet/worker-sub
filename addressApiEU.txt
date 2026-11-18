@@ -1,5 +1,5 @@
-108.162.193.86#EU_chosen
+190.93.245.216#EU_chosen
 190.93.247.126#EU_chosen
-www.whatismyip.com#EU_chosen
-172.65.63.138#EU_chosen
+108.162.193.86#EU_chosen
 104.24.227.79#EU_chosen
+www.whatismyip.com#EU_chosen
