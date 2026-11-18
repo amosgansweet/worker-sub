@@ -1,5 +1,5 @@
-104.16.82.111#ipchosen
-104.16.131.130#ipchosen
-108.162.193.86#ipchosen
+141.101.123.54#ipchosen
+190.93.245.216#ipchosen
 104.24.250.123#ipchosen
-www.udacity.com#ipchosen
+108.162.193.86#ipchosen
+103.21.244.141#ipchosen
