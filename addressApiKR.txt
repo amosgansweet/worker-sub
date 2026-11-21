@@ -1,5 +1,5 @@
-sub.danfeng.eu.org#KR_chosen
-mfa.gov.ua#KR_chosen
-www.wto.org#KR_chosen
-fbi.gov#KR_chosen
+103.31.4.248#KR_chosen
 141.101.123.54#KR_chosen
+198.41.195.171#KR_chosen
+www.iakeys.com#KR_chosen
+www.whatismyip.com#KR_chosen
