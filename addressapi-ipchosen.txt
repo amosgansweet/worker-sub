@@ -1,5 +1,5 @@
-141.101.123.54#ipchosen
-190.93.245.216#ipchosen
-104.24.250.123#ipchosen
-108.162.193.86#ipchosen
-103.21.244.141#ipchosen
+162.159.34.70#ipchosen
+141.101.114.239#ipchosen
+104.21.209.58#ipchosen
+104.21.93.22#ipchosen
+103.21.244.176#ipchosen
