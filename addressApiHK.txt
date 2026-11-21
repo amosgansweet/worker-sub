@@ -1,5 +1,5 @@
-104.21.217.238#HK_chosen
-162.159.154.209#HK_chosen
-store.ubi.com#HK_chosen
+www.whatismyip.com#HK_chosen
 cdns.doon.eu.org#HK_chosen
-www.gov.ua#HK_chosen
+cf.130519.xyz#HK_chosen
+www.digitalocean.com#HK_chosen
+sub.danfeng.eu.org#HK_chosen
