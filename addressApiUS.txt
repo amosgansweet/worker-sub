@@ -1,5 +1,5 @@
-steamdb.info#US_chosen
-www.digitalocean.com#US_chosen
-cf.zhetengsha.eu.org#US_chosen
-iplocation.io#US_chosen
-saas.sin.fan#US_chosen
+162.159.34.70#US_chosen
+141.101.114.239#US_chosen
+104.21.209.58#US_chosen
+104.21.93.22#US_chosen
+103.21.244.176#US_chosen
