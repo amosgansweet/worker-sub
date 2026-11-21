@@ -1,5 +1,5 @@
+www.whatismyip.com#CA_chosen
+cf.130519.xyz#CA_chosen
 www.digitalocean.com#CA_chosen
-cf.zhetengsha.eu.org#CA_chosen
-iplocation.io#CA_chosen
-saas.sin.fan#CA_chosen
 sub.danfeng.eu.org#CA_chosen
+iplocation.io#CA_chosen
