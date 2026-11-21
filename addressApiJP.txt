@@ -1,5 +1,5 @@
-store.ubi.com#JP_chosen
-cdns.doon.eu.org#JP_chosen
-www.gov.ua#JP_chosen
-steamdb.info#JP_chosen
-www.digitalocean.com#JP_chosen
+104.21.93.22#JP_chosen
+103.21.244.176#JP_chosen
+103.31.4.248#JP_chosen
+198.41.195.171#JP_chosen
+www.iakeys.com#JP_chosen
