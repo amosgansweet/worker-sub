@@ -1,5 +1,5 @@
-www.whatismyip.com#CA_chosen
-cf.130519.xyz#CA_chosen
-www.digitalocean.com#CA_chosen
+malaysia.com#CA_chosen
+www.baipiao.eu.org#CA_chosen
+whatismyipaddress.com#CA_chosen
 sub.danfeng.eu.org#CA_chosen
-iplocation.io#CA_chosen
+www.okcupid.com#CA_chosen
