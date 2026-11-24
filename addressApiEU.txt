@@ -1,5 +1,5 @@
-190.93.245.216#EU_chosen
-www.whatismyip.com#EU_chosen
-108.162.193.86#EU_chosen
 cf.130519.xyz#EU_chosen
-www.digitalocean.com#EU_chosen
+www.iakeys.com#EU_chosen
+103.31.4.169#EU_chosen
+173.245.49.242#EU_chosen
+198.41.209.203#EU_chosen
