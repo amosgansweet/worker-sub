@@ -1,5 +1,2 @@
-gur.gov.ua#KR_chosen
-fbi.gov#KR_chosen
-cf.zhetengsha.eu.org#KR_chosen
-www.hugedomains.com#KR_chosen
-cdns.doon.eu.org#KR_chosen
+www.udacity.com#KR_chosen
+108.162.192.217#KR_chosen
