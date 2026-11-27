@@ -1,5 +1,2 @@
-www.baipiao.eu.org#US_chosen
-whatismyipaddress.com#US_chosen
-www.okcupid.com#US_chosen
-iplocation.io#US_chosen
-www.visa.co.jp#US_chosen
+www.udacity.com#US_chosen
+108.162.192.217#US_chosen
