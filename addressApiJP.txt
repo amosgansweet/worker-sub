@@ -1,5 +1,4 @@
+www.udacity.com#JP_chosen
+108.162.192.217#JP_chosen
 103.21.244.176#JP_chosen
 190.93.244.202#JP_chosen
-skk.moe#JP_chosen
-store.ubi.com#JP_chosen
-malaysia.com#JP_chosen
