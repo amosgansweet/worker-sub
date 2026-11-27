@@ -1,5 +1,2 @@
-cdns.doon.eu.org#HK_chosen
-malaysia.com#HK_chosen
-www.baipiao.eu.org#HK_chosen
-whatismyipaddress.com#HK_chosen
-www.okcupid.com#HK_chosen
+www.udacity.com#HK_chosen
+108.162.192.217#HK_chosen
