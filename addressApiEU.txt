@@ -1,5 +1,5 @@
-cf.130519.xyz#EU_chosen
-www.iakeys.com#EU_chosen
 103.31.4.169#EU_chosen
+www.udacity.com#EU_chosen
 173.245.49.242#EU_chosen
 198.41.209.203#EU_chosen
+108.162.192.217#EU_chosen
