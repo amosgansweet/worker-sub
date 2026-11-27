@@ -1,5 +1,2 @@
-malaysia.com#CA_chosen
-www.baipiao.eu.org#CA_chosen
-whatismyipaddress.com#CA_chosen
-sub.danfeng.eu.org#CA_chosen
-www.okcupid.com#CA_chosen
+108.162.192.217#CA_chosen
+www.udacity.com#CA_chosen
